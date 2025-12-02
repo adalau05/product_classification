@@ -1,4 +1,4 @@
-Objective: To classify retail products into four categories using rules:
+This project is used to classify retail products into four categories using rules:
 
 ⭐ Stars – High sales, high margin, high traffic
 
